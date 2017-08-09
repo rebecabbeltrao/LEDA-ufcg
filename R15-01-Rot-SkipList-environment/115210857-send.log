@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-08-02T16:05:05.778-0300</date>
+  <logger>REBECA MIRANDA BELTRAO DE OLIVEIRA</logger>
+  <level>FINE</level>
+  <message>File 115210857-REBECA MIRANDA BELTRAO DE OLIVEIRA.zip was received. It was sent by REBECA MIRANDA BELTRAO DE OLIVEIRA from IP 127.0.1.1</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-08-02T20:55:20.940-0300</date>
+  <logger>REBECA MIRANDA BELTRAO DE OLIVEIRA</logger>
+  <level>FINE</level>
+  <message>File 115210857-REBECA MIRANDA BELTRAO DE OLIVEIRA.zip was received. It was sent by REBECA MIRANDA BELTRAO DE OLIVEIRA from IP 192.168.15.97</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-08-02T22:52:53.367-0300</date>
+  <logger>REBECA MIRANDA BELTRAO DE OLIVEIRA</logger>
+  <level>FINE</level>
+  <message>File 115210857-REBECA MIRANDA BELTRAO DE OLIVEIRA.zip was received. It was sent by REBECA MIRANDA BELTRAO DE OLIVEIRA from IP 192.168.15.97</message>
+</record>
